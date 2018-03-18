@@ -12,5 +12,5 @@ document.onmousemove=function(data){
 
 
 document.onpointerover=function(data){
-  console.log(data);
+  
 }
