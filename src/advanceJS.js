@@ -20,3 +20,4 @@ let longStr=strArr.filter(function(x){
 })
 
 console.log(longStr);
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
